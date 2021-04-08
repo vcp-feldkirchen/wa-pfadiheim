@@ -46,7 +46,7 @@
          "startx":0,
          "starty":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":48,
          "x":0,
          "y":0
@@ -85,6 +85,17 @@
          "id":8,
          "name":"rr-room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"rr-raum"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "startx":16,
          "starty":0,
          "type":"tilelayer",
@@ -106,6 +117,12 @@
          "id":9,
          "name":"start1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "startx":16,
          "starty":16,
          "type":"tilelayer",
@@ -154,6 +171,12 @@
          "id":10,
          "name":"start2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "startx":0,
          "starty":0,
          "type":"tilelayer",
