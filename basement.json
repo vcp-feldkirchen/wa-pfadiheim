@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
