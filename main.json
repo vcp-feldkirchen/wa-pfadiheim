@@ -110,6 +110,12 @@
          "id":10,
          "name":"exitbasement1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"basement.json#start1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":79,
@@ -140,6 +146,12 @@
          "id":12,
          "name":"exitbasement2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"basement.json#start2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":79,
