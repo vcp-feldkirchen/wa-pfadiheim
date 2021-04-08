@@ -164,7 +164,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"basement.json#start1"
+                 "value":".\/basement.json#start1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +200,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"basement.json#start2"
+                 "value":".\/basement.json#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
